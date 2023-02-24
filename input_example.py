@@ -1,0 +1,5 @@
+print("I see you have mastered the print function")
+print("what about some user input?? Lets try:")
+data = input("Enter something, anything: ")
+print("Cool! Thanks for putting in data!")
+print("You said: ", data)
